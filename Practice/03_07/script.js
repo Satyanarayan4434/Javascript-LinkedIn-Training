@@ -16,3 +16,8 @@ const car ={
       MG_X:5000000
     }
 }
+console.log("Price of celerio: ",car.celerio)
+console.log("Price of scorpio: ",car.scorpio)
+console.log("Price of BMW: ",car.BMW)
+console.log("Price of MG Hector: ",car.MG.MG_Hector)
+console.log("Price of MG x: ",car.MG.MG_X)
